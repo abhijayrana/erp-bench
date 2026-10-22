@@ -10,15 +10,15 @@
   "@type": "sc:Dataset",
   "name": "erp-bench",
   "alternateName": [
-    "anonymouse321/erp-bench",
+    "abhijayrana/erp-bench",
     "ERP-Bench"
   ],
   "description": "ERP-Bench is the Odoo 19 benchmark used in the paper \"Anchor: Preventing Artifact Drift for Reliable Agent Verification.\" It contains 300 long-horizon procurement and manufacturing tasks generated from a single CP-SAT-backed specification.",
-  "cr:citeAs": "ERP-Bench, https://huggingface.co/datasets/anonymouse321/erp-bench",
+  "cr:citeAs": "ERP-Bench, https://huggingface.co/datasets/abhijayrana/erp-bench",
   "creator": {
     "@type": "sc:Person",
-    "name": "anon",
-    "url": "https://huggingface.co/anonymouse321"
+    "name": "Abhijay Rana",
+    "url": "https://huggingface.co/abhijayrana"
   },
   "datePublished": "2026-05-07",
   "keywords": [
@@ -33,7 +33,7 @@
     "benchmark"
   ],
   "license": "https://creativecommons.org/publicdomain/zero/1.0/",
-  "url": "https://huggingface.co/datasets/anonymouse321/erp-bench",
+  "url": "https://huggingface.co/datasets/abhijayrana/erp-bench",
   "version": "0.1.0",
   "dct:conformsTo": [
     "http://mlcommons.org/croissant/1.0",
@@ -46,7 +46,7 @@
       "@id": "repo",
       "name": "repo",
       "description": "The Hugging Face dataset repository containing ERP-Bench tasks, task UI artifacts, generation code, schemas, and metadata.",
-      "contentUrl": "https://huggingface.co/datasets/anonymouse321/erp-bench/tree/main",
+      "contentUrl": "https://huggingface.co/datasets/abhijayrana/erp-bench/tree/main",
       "encodingFormat": "git+https",
       "cr:includes": [
         "README.md",
