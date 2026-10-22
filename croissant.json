@@ -13,7 +13,7 @@
     "anonymouse321/erp-bench",
     "ERP-Bench"
   ],
-  "description": "ERP-Bench is the Odoo 19 benchmark used in the Anchor paper, \"Preventing Artifact Drift in Agent Benchmark Generation.\" It contains 300 long-horizon procurement and manufacturing tasks generated from a single CP-SAT-backed specification.",
+  "description": "ERP-Bench is the Odoo 19 benchmark used in the paper \"Anchor: Preventing Artifact Drift for Reliable Agent Verification.\" It contains 300 long-horizon procurement and manufacturing tasks generated from a single CP-SAT-backed specification.",
   "cr:citeAs": "ERP-Bench, https://huggingface.co/datasets/anonymouse321/erp-bench",
   "creator": {
     "@type": "sc:Person",

@@ -15,7 +15,7 @@ size_categories:
 
 # ERP-Bench
 
-ERP-Bench is the Odoo 19 benchmark used in the Anchor paper, **"Preventing Artifact Drift in Agent Benchmark Generation."** It contains 300 long-horizon procurement and manufacturing tasks generated from a single solved specification.
+ERP-Bench is the Odoo 19 benchmark used in the paper **"Anchor: Preventing Artifact Drift for Reliable Agent Verification."** It contains 300 long-horizon procurement and manufacturing tasks generated from a single solved specification.
 
 Anchor's central claim is that benchmark tasks should not be hand-assembled from separate instructions, environments, oracle solutions, and verifiers. In this repo, each task is compiled from one CP-SAT-backed procurement specification into:
 
